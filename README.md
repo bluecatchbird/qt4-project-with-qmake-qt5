@@ -1,0 +1,1 @@
+# qt4-project-with-qmake-qt5
